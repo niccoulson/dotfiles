@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nick_2502@hotmail.com
+	name = Nic Coulson
